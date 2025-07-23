@@ -23,7 +23,7 @@ email: kim.rypstra@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Occasional articles from Perth based mobile developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rypstra.kim" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kimrypstra.github.io/webdoot" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kimrypstra
 
 # Build settings
