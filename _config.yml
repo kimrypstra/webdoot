@@ -27,7 +27,7 @@ url: "https://kimrypstra.github.io/webdoot" # the base hostname & protocol for y
 github_username:  kimrypstra
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: minima
 plugins:
   - jekyll-feed
 
