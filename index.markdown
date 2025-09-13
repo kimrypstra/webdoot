@@ -5,4 +5,6 @@
 layout: default
 title: Home
 ---
-Hello, world.
+### Hello there! 
+
+Welcome to my infrequently updated website. Check back some time to see if anything has changed! 
