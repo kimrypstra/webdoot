@@ -3,6 +3,8 @@ title: AlarmLlama
 permalink: /alarmllama/
 layout: default
 ---
+<img src="{{ site.baseurl }}/assets/images/icon.png" alt="App icon" width="300">
+
 # AlarmLlama Support
 
 Thank you for using **AlarmLlama**. If you have questions, feedback, or need assistance, please contact us using the information below.

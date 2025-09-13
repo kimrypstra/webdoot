@@ -3,6 +3,7 @@ title: Privacy
 permalink: /alarmllama/privacy/
 layout: default
 ---
+<img src="{{ site.baseurl }}/assets/images/icon.png" alt="App icon" width="300">
 
 # AlarmLlama Privacy Policy
 
