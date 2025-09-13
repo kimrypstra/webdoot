@@ -30,6 +30,13 @@ github_username:  kimrypstra
 theme: minima
 plugins:
   - jekyll-feed
+nav:
+  - title: Home
+    url: /
+  - title: AlarmLlama
+    url: /alarmllama/
+  - title: Privacy
+    url: /alarmllama/privacy/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
