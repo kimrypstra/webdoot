@@ -12,4 +12,4 @@ We do not track usage, share data with third parties, or use analytics that iden
 
 ## Contact
 
-If you have questions about this privacy policy, please email us at [privacy@yourdomain.com](mailto:privacy@yourdomain.com).
+If you have questions about this privacy policy, please email us at [kim.rypstra@gmail.com](mailto:kim.rypstra@gmail.com).
