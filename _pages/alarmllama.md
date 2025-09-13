@@ -1,7 +1,7 @@
 ---
-layout: default
 title: AlarmLlama
 permalink: /alarmllama/
+layout: default
 ---
 ### AlarmLlama Support
 

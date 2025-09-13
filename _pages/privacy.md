@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Privacy
-permalink: /alarmllama/privacy
+permalink: /alarmllama/privacy/
+layout: default
 ---
 ### AlarmLlama Privacy 
 
